@@ -14,9 +14,9 @@ timezone: Pacific/Auckland
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Pakorn (Beam) Aschakulporn                         # the main title
+title: Amanda Moore                       # the main title
 
-tagline: Lecturer in Finance         # it will display as the sub-title
+tagline: Biology Researcher        # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   Just another website...
@@ -25,20 +25,20 @@ description: >-                        # used by seo meta and the atom feed
 url: ""
 
 github:
-  username: PBeamA             # change to your github username
+  username: aecm-developments             # change to your github username
 
 twitter:
-  username: twitter_username # change to your twitter username
+  username: # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Pakorn (Beam) Aschakulporn
-  email: Pakorn.Aschakulporn@otago.com             # change to your email address
+  name: 
+  email:             # change to your email address
   links:
     # The first element serves as the copyright owner's link
     # - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/PBeamA       # change to your github homepage
+    # -      # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -58,7 +58,7 @@ webmaster_verifications:
 # Web Analytics Settings
 analytics:
   google:
-    id: 'G-9T3KSF6XL1' # fill in your Google Analytics ID
+    id: # fill in your Google Analytics ID
   goatcounter:
     id: # fill in your GoatCounter ID
   umami:
@@ -142,7 +142,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: ""
+baseurl: "/amanda"
 
 # ------------ The following options are not recommended to be modified ------------------
 
